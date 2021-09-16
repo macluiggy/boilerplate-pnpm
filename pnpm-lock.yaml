@@ -1,12 +1,12 @@
 lockfileVersion: 5.3
 
 specifiers:
-  express: ^4.14.0
-  moment: ^2.10.2
+  express: ^4.17.1
+  moment: 2.10.2
 
 dependencies:
   express: 4.17.1
-  moment: 2.29.1
+  moment: 2.10.2
 
 packages:
 
@@ -230,8 +230,8 @@ packages:
     hasBin: true
     dev: false
 
-  /moment/2.29.1:
-    resolution: {integrity: sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==}
+  /moment/2.10.2:
+    resolution: {integrity: sha1-+vjAnKgvA/lJYuO1pyOSY+pQ0Ic=}
     dev: false
 
   /ms/2.0.0:
